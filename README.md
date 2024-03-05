@@ -2,22 +2,7 @@
 
 
 
-
-Pastebin
-paste
-Login Sign up
-SHARE
-TWEET
-Guest User
-Untitled
-a guest
-Mar 5th, 2024
-1
-0
-23 hours
-Not a member of Pastebin yet? Sign Up, it unlocks many cool features!
-0.66 KB | None
-
+```
 version: '3.1'
  
 services:
@@ -52,13 +37,4 @@ services:
     volumes:
 
           - '/data:/home/user'
-
-create new paste  /  syntax languages  /  archive  /  faq  /  tools  /  night mode  /  api  /  scraping api  /  news  /  pro
-privacy statement  /  cookies policy  /  terms of service /  security disclosure  /  dmca  /  report abuse  /  contact
-
-By using Pastebin.com you agree to our cookies policy to enhance your experience.
-Site design & logo © 2024 Pastebin
-We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the Cookies Policy.  OK, I Understand
-Not a member of Pastebin yet?
-Sign Up, it unlocks many cool features!
- 
+```
