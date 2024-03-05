@@ -2,6 +2,11 @@
 
 
 
+<img width="768" alt="Screenshot 2024-03-05 alle 16 34 43" src="https://github.com/MrMagicalSoftware/docker-example-conf/assets/98833112/b789060b-95d2-4e68-9a36-2885fb9384b4">
+
+
+
+
 ```
 version: '3.1'
  
@@ -35,6 +40,5 @@ services:
       - '20-21:20-21/tcp'
       - '40000-40009:40000-40009/tcp'
     volumes:
-
           - '/data:/home/user'
 ```
